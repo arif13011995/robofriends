@@ -1,0 +1,11 @@
+@font-face {
+ font-family: "SEGA";
+ src: local("SEGA"),
+  url("../components/font/SEGA.TTF") format("truetype");
+ font-weight: bold;
+}
+
+h1{
+    font-family: SEGA;
+    color: rosybrown;
+}
